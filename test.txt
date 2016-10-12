@@ -5,6 +5,6 @@ bbbb
 g
 a
 aaaa
-
-i
+oooooooo
+oi
 zzzzzzzz
